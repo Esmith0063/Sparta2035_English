@@ -14,13 +14,15 @@ HOW TO INSTALL
 
 1) download this file
 
-2) go to your Sparta 2035 game in your steam library and right click and click on browse local files.
+   alternate download link: https://mega.nz/file/3MAAEJ4A#aa-WBbPn-1CcjT1MD-6azR2uVFWgKUboyOWVL_k50O4
 
-3) go to Sparta_Data/Streamingassests/Localizations and there will be two files. English and Russian
+3) go to your Sparta 2035 game in your steam library and right click and click on browse local files.
 
-4) MAKE A COPY of the file labeled "Russian" in there and save it somewhere on your PC as a back up
+4) go to Sparta_Data/Streamingassests/Localizations and there will be two files. English and Russian
 
-5) Drag and drop the file you downloaded from the link into the localizations folder and replace the file labeled "Russian". Make sure it is spelled exactly as the copy you made.
+5) MAKE A COPY of the file labeled "Russian" in there and save it somewhere on your PC as a back up
+
+6) Drag and drop the file you downloaded from the link into the localizations folder and replace the file labeled "Russian". Make sure it is spelled exactly as the copy you made.
 
 6)It will ask if you want to overwrite. Say yes. and now you can start the game up!
 
