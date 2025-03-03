@@ -39,6 +39,10 @@ A) Its not working.....
 Make sure you follow the steps above and download the latest file from the link and it matches exactly how the file is spelled in your folder. Make sure you replace the Russian file and not the English labeled. This is because the game launches only reading the file labeled Russian, so we are tricking the game into reading our translation.
 
 
+b) still not working....
+
+Open up the file you download here in notepad and use cntrl+A to select all. then copy the text itself. then open up a duplicate of the file named "english" in the localizations folder and open it in notepad. Select all again and this time delete everything and paste what you copied into this file. go to file-save(NOT SAVE AS, ONLY SAVE). Then rename this file "Russian" and put it in the localizations folder. basically what probably happened is that it accidentally downloaded or saved as a txt file and the game wont read it. However the origonal file can be opened with notepad and edited, just dont save as a text file or anything else; just hit save. This will keep it in its origonal file format.
+
 
 
 
